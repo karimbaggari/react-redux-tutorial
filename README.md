@@ -1,2 +1,2 @@
 # react-redux-tutorial
-reacct-redux-tutorial-for-learning-purposes
+reacct-redux-tutorial-for-teaching-purposes
